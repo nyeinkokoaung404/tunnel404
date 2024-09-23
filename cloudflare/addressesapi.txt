@@ -1,16 +1,16 @@
-18.141.204.88:443#🇸🇬 Singapore,Stockholm,Amazon Technologies Inc.
-3.112.21.102:443#🇯🇵 Japan,Tokyo Shibuya,Amazon Technologies Inc.
+18.141.204.88:443#🇸🇬Singapore
+3.112.21.102:443#🇯🇵Japan
 es.opensignal.com:443#🇹🇭True-1
-f71c3379.translate-cf.weglot.io:443 #🇹🇭True-2
-172.64.147.154:443 #🇹🇭True-3
-104.18.40.102:443 #🇹🇭True-4
-cdn.opensignal.com:443 #🇹🇭True-5
-cdn.opensignal.com.cdn.cloudflare.net:443 #🇹🇭True-6
-cdn.cloudflare.net:443 #🇹🇭True-7
-172.66.40.170:443 #🇹🇭True-8
-172.66.43.86:443 #🇹🇭True-9
-104.17.71.206:443 #🇹🇭True-10
-www.opensignal.com:443 #🇹🇭True-11
-104.26.11.155:443 #🇹🇭True-12
-104.26.10.155:443 #🇹🇭True-13
-172.67.68.224:443 #🇹🇭True-14
+f71c3379.translate-cf.weglot.io:443#🇹🇭True-2
+172.64.147.154:443#🇹🇭True-3
+104.18.40.102:443#🇹🇭True-4
+cdn.opensignal.com:443#🇹🇭True-5
+cdn.opensignal.com.cdn.cloudflare.net:443#🇹🇭True-6
+cdn.cloudflare.net:443#🇹🇭True-7
+172.66.40.170:443#🇹🇭True-8
+172.66.43.86:443#🇹🇭True-9
+104.17.71.206:443#🇹🇭True-10
+www.opensignal.com:443#🇹🇭True-11
+104.26.11.155:443#🇹🇭True-12
+104.26.10.155:443#🇹🇭True-13
+172.67.68.224:443#🇹🇭True-14
