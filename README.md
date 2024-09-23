@@ -119,8 +119,8 @@ If the domain name you are assigned is `fuck.cloudns.biz`, then add a custom dom
 | SUBCONFIG | [https://raw.github.../ACL4SSR_Online_Full_MultiMode.ini](https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini) |❌| clash、singbox等 订阅转换配置文件 | [Video](https://www.youtube.com/watch?v=s91zjpw3-P8&t=1605s) |
 | SUBNAME | `edgetunnel` |❌| 订阅名称 | |
 | RPROXYIP | `false` |❌| 设为 true 即可强制获取订阅器分配的ProxyIP(需订阅器支持)| [Video](https://www.youtube.com/watch?v=s91zjpw3-P8&t=1816s) |
-| URL302 | `https://t.me/CMLiussss` |❌| 主页302跳转(支持多url, url之间使用`,`或`换行`作间隔, 小白别用) |  |
-| URL | `https://t.me/CMLiussss` |❌| 主页伪装(支持多url, url之间使用`,`或`换行`作间隔, 乱设容易触发反诈) |  |
+| URL302 | `https://t.me/nkka404` |❌| 主页302跳转(支持多url, url之间使用`,`或`换行`作间隔, 小白别用) |  |
+| URL | `https://t.me/nkka404` |❌| 主页伪装(支持多url, url之间使用`,`或`换行`作间隔, 乱设容易触发反诈) |  |
 | CFEMAIL | `admin@gmail.com` |❌| CF账户邮箱(与`CFKEY`都填上后, 订阅信息将显示请求使用量, 小白别用) |  |
 | CFKEY | `c6a944b5c956b6c18c2352880952bced8b85e` |❌| CF账户Global API Key(与`CFEMAIL`都填上后, 订阅信息将显示请求使用量, 小白别用) |  |
 
