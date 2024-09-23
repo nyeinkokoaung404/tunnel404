@@ -1,5 +1,6 @@
 18.141.204.88:443#🇸🇬Singapore
-3.112.21.102:443#🇯🇵Japan
+3.112.21.102:443#🇯🇵Japan,TokyoShibuya,AmazonTechnologiesInc
+192.9.177.204:443#🇦🇺Australia,Victoria,Melbourne
 es.opensignal.com:443#🇹🇭True-1
 f71c3379.translate-cf.weglot.io:443#🇹🇭True-2
 172.64.147.154:443#🇹🇭True-3
