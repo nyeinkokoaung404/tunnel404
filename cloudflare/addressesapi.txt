@@ -3,7 +3,7 @@
 192.9.177.204:443#🇦🇺Australia-Victoria-Melbourne
 43.153.103.203:443#🇺🇸USA-California-SantaClara-TencentCloudComputing
 5.161.225.35:443#🇺🇸USA-HetznerOnlineGmbH-Hetzner
-192.237.192.175:443#🇺🇸USA,VirginiaAshburn,TotalUptimeTechnologies,LLC
+192.237.192.175:443#🇺🇸USA-VirginiaAshburn-TotalUptimeTechnologiesLLC
 es.opensignal.com:443#🇹🇭Thailand-True-1
 f71c3379.translate-cf.weglot.io:443#🇹🇭Thailand-True-2
 172.64.147.154:443#🇹🇭Thailand-True-3
