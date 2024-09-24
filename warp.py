@@ -107,7 +107,7 @@ title = (
 )
 update_interval = "//profile-update-interval: 1\n"
 sub_info = "//subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732\n"
-profile_web = "//profile-web-page-url: https://github.com/NiREvil\n"
+profile_web = "//profile-web-page-url: https://github.com/nyeinkokoaung404\n"
 last_modified = "//last update on: " + formatted_time + "\n"
 
 config_prefix, _ = export_Hiddify(Bestip)
