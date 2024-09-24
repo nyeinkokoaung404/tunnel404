@@ -1,4 +1,4 @@
-name: nkka404_Warp
+name: REvil_Warp
 
 on:
   push:
@@ -28,8 +28,8 @@ jobs:
       run: python warp.py
     - name: Commit and push changes
       run: |          
-          git config --global user.email "nyeinkokoaung1997@gmail.com"
-          git config --global user.name "nyeinkokoaung404"
+          git config --global user.email "nirevil@proton.me"
+          git config --global user.name "nirevil"
           git config credential.helper store
           git add -A
           git commit -m "Automatic update"
